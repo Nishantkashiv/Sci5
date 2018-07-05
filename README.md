@@ -9,3 +9,5 @@ https://firebase.google.com/docs/android/setup
 
 currently we are using firebase only for user auth 
 but afterwards we have to also use it to send and recieve messages and notification in our app.
+
+To make changes fork the project and make changes and send a pull request
