@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "836297628567",
+    "firebase_url": "https://sci5-eb9a5.firebaseio.com",
+    "project_id": "sci5-eb9a5",
+    "storage_bucket": "sci5-eb9a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836297628567:android:1f1aab6d230f687b",
+        "android_client_info": {
+          "package_name": "com.example.android.sci5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836297628567-fo33io4pq2qa4c86numioae37k928qou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlrqSDBq_lwTkhc527q9my_9zc65utAG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
